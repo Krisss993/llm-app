@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 alembic==1.13.2
 altgraph==0.17.4
 annotated-types==0.7.0
@@ -74,7 +74,7 @@ wheel==0.43.0
 whichcraft==0.6.1
 zope.event==5.0
 zope.interface==6.2
-=======
+
 alembic==1.13.2
 altgraph==0.17.4
 annotated-types==0.7.0
@@ -150,4 +150,4 @@ wheel==0.43.0
 whichcraft==0.6.1
 zope.event==5.0
 zope.interface==6.2
->>>>>>> 908ebd8ac2cb84ad2a7e3f5d3a4e1c14c5e25cc1
+
